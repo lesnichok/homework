@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Reactive learning
+          Reactive learning git commands
         </a>
       </header>
     </div>
